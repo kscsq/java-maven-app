@@ -1,0 +1,4 @@
+version: '3.8'
+services:
+  java-maven-app:
+    image: kscsq/demo-app:java-maven-1.0
